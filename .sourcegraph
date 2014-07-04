@@ -3,8 +3,20 @@
   "SourceUnits": [
     {
       "Files": [
-        "**/*.c",
-        "**/*.rb"
+        "string.c",
+        "time.c",
+        "ext/socket/socket.c",
+        "lib/uri/ldaps.rb",
+        "lib/uri/rfc2396_parser.rb",
+        "lib/uri/rfc3986_parser.rb",
+        "lib/uri/ftp.rb",
+        "lib/uri/ldap.rb",
+        "lib/uri/https.rb",
+        "lib/uri/mailto.rb",
+        "lib/uri/http.rb",
+        "lib/uri/generic.rb",
+        "lib/uri/common.rb",
+        "lib/uri.rb"
       ],
       "LibName": ".",
       "Dir": ".",
