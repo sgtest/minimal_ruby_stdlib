@@ -1,0 +1,14 @@
+{
+  "URI": "github.com/sgtest/minimal_ruby_stdlib",
+  "SourceUnits": [
+    {
+      "Files": [
+        "**/*.c",
+        "**/*.rb"
+      ],
+      "LibName": ".",
+      "Dir": ".",
+      "Type": "ruby"
+    }
+  ]
+}
