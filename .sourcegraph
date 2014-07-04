@@ -22,5 +22,8 @@
       "Dir": ".",
       "Type": "ruby"
     }
-  ]
+  ],
+  "Global": {
+    "ruby": {"OmitStdlib": true}
+  }
 }
